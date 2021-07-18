@@ -1,4 +1,9 @@
 .ipynb_checkpoints
 .div2k
 .ckpt
-
+__pycache__/
+demo/
+model/__pycache__/
+output/
+weights/
+*.tar.gz
